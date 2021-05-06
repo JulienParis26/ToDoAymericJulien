@@ -1,5 +1,4 @@
-# ToDoAymericJulien
-
 # Formation Android
-THOMINE Aymeric
-PARIS Julien
+
+* THOMINE Aymeric
+* PARIS Julien
